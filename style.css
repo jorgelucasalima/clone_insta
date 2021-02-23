@@ -37,3 +37,18 @@ body {
     align-items: center;
     justify-content: space-around;
 }
+
+.instagram-logo {
+    max-width: 20%;
+    max-height: 50%;
+    width: auto;
+    height: auto;
+}
+
+.foto-perfil {
+    border-radius: 50%;
+    max-width: 80px;
+    max-height: 80px;
+    width: auto;
+    height: auto;
+}
